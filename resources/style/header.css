@@ -1,0 +1,23 @@
+header {
+  background-color: #4bc39d;
+  color: white; }
+
+#header_logo_image {
+  height: 50px; }
+
+header .row {
+  margin-top: 10px; }
+
+header .nav a {
+  color: white; }
+
+header .nav {
+  font-size: 15px; }
+
+header .col-sm-4 .row {
+  margin-top: 0px; }
+
+#header_decor {
+  width: 100%; }
+
+/*# sourceMappingURL=header.css.map */

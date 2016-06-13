@@ -1,0 +1,35 @@
+@import "import";
+
+footer{
+  color: white;
+}
+
+#footer_top,#footer_decor{
+  background-color: $green;
+}
+
+#footer_decor{
+  height: 15px;
+}
+
+#footer_bot{
+  background-color: $dark_green;
+}
+
+#footer_top{
+  a{
+    color: white;
+  }
+}
+
+#footer_links{
+  margin-top: 10px;
+  li {
+    display: inline;
+    margin-left: 20px;
+  }
+}
+
+#footer_decor{
+  width: 100%;
+}

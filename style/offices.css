@@ -1,0 +1,43 @@
+.offices_block{
+	width: 100%;
+}
+
+.offices_table{
+	width: 100%;
+	text-align: center;
+        line-height: 25px;
+	border-collapse: collapse;
+	background-color: #f8f8f8;
+	border-radius: 5px;
+        font-size: 15px;
+}
+
+.offices_table th{
+	background-color: #7f8c8c;
+	color: #ffffff;
+}
+
+.offices_table th , td{
+	margin: 0px;
+	padding: 10px;
+	border-bottom: 1px solid  #ddd;
+}
+
+.offices_table tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+.offices_table tr:hover{
+	background-color:#7f8c8c; 
+	color: #ffffff;
+}
+#select{
+    border-radius: 5px;
+    float: right;
+    height: 30px;
+    width: 200px;
+    font-size: 15px;
+}
+#select:focus{
+    outline: 2px solid #4bc39d;
+}

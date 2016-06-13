@@ -1,0 +1,25 @@
+footer {
+  color: white; }
+
+#footer_top, #footer_decor {
+  background-color: #4bc39d; }
+
+#footer_decor {
+  height: 15px; }
+
+#footer_bot {
+  background-color: #3bb38d; }
+
+#footer_top a {
+  color: white; }
+
+#footer_links {
+  margin-top: 10px; }
+  #footer_links li {
+    display: inline;
+    margin-left: 20px; }
+
+#footer_decor {
+  width: 100%; }
+
+/*# sourceMappingURL=footer.css.map */
